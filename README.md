@@ -15,11 +15,11 @@ Retails E-commerce Dashboard
 	•	Description:This is an E-commerce website showing the details and analysis of the customers and products.
   • Technologies used: Power BI
   • QUESTIONS
- 1. Which customer age and gender has more purchasing power?
- 2. What are the patterns in sales across different months ?
- 3. Which product categories hold the highest appeal among customers?
- 4. Who are the high value customers?
- 5. Which product categories brings more profit
+1. Which customer age and gender has more purchasing power?
+2. What are the patterns in sales across different months ?
+3. Which product categories hold the highest appeal among customers?
+4. Who are the high value customers?
+5. Which product categories brings more profit
   •	Link to Project: https://github.com/dhavee1234/Retails-Data-Visualization
 
 Olist Superstore data cleaning using SQL 
